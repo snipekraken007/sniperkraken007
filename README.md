@@ -62,7 +62,6 @@ Computer Science student  with interest in
 </ul>
 
 <hr/>
-<hr/>
 
 <h3> Other Interests</h3>
 <ul>
