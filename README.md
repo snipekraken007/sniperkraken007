@@ -59,11 +59,6 @@ Computer Science student  with interest in
     <i>Tech:</i> FastAPI, Vector Databases, LLMs
   </li>
   <br/>
-  <li>
-    <b>Streamlit + FastAPI ML App</b><br/>
-    End-to-end ML app with deployment and CI/CD.<br/>
-    <i>Tech:</i> Streamlit, FastAPI,GitHub Actions
-  </li>
 </ul>
 
 <hr/>
